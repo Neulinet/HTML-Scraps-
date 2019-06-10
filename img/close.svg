@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.535" height="28.536" viewBox="0 0 28.535 28.536">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #f4f5f8;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        opacity: 0.999;
+      }
+    </style>
+  </defs>
+  <g id="close" transform="translate(-1779.732 -85.732)">
+    <line id="Line_53" data-name="Line 53" class="cls-1" y1="25" x2="25" transform="translate(1781.5 87.5)"/>
+    <line id="Line_54" data-name="Line 54" class="cls-2" x2="25" y2="25" transform="translate(1781.5 87.5)"/>
+  </g>
+</svg>

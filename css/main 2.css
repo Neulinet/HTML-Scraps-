@@ -1,0 +1,50 @@
+@import url("https://use.typekit.net/jpb5hbx.css");
+body, html {
+  font-family: futura-pt, sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-family: futura-pt-bold, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  margin: 0;
+}
+body a, html a {
+  text-decoration: none;
+}
+
+header {
+  padding: 2em;
+}
+header .logo {
+  color: #000000;
+  font-weight: bold;
+}
+header .menu-btn {
+  width: 18px;
+  float: right;
+  cursor: pointer;
+}
+
+section {
+  padding: 4em;
+}
+section h1 {
+  font-size: 4em;
+  margin: 1em auto;
+  width: 70%;
+}
+section h1::before {
+  content: " ";
+  border-top: 5px solid lightgrey;
+  display: block;
+}
+
+nav {
+  position: absolute;
+  background: black;
+  padding: 2em;
+  width: calc(100% - 4em);
+  height: call;
+}
+
+/*# sourceMappingURL=main.css.map */
